@@ -56,6 +56,9 @@ const questions = [
 ];
 
 function writeToFile(fileName, data) {
+    fs.writeFile('README.md', data, (err) =>
+        err ? console.log(err) : console.log('Success!', data)
+    );
 }
 
 function runQuery() {
@@ -68,4 +71,6 @@ function runQuery() {
         });
 }
 
+
 runQuery();
+writeToFile();
