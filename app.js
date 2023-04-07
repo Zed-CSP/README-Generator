@@ -67,3 +67,5 @@ function runQuery() {
             );
         });
 }
+
+runQuery();
