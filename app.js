@@ -59,7 +59,7 @@ function runQuery() {
     return inquirer.prompt(questions)
         .then((data) => {
             const readMe = MarkDown.generateMarkdown(data);
-            fs.writeFile('README.md', readMe, (err) =>
+            fs.writeFile('./outputFiles/README.md', readMe, (err) =>
                 err ? console.log(err) : console.log('Success!', data)
             );
         });
