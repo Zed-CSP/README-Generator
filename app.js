@@ -55,12 +55,6 @@ const questions = [
     },
 ];
 
-function writeToFile(fileName, data) {
-    fs.writeFile('README.md', data, (err) =>
-        err ? console.log(err) : console.log('Success!', data)
-    );
-}
-
 function runQuery() {
     return inquirer.prompt(questions)
         .then((data) => {
@@ -73,4 +67,3 @@ function runQuery() {
 
 
 runQuery();
-writeToFile();

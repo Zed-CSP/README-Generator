@@ -1,33 +1,33 @@
 
-        # Pastor Herickson's Miney Niney Tiny Time Town
+        # README.md Generator
 
         ## Table of Contents
-        * [Installation](#installation)
-        * [Usage](#usage)
-        * [License](#license)
-        * [Contributing](#contributing)
-        * [Tests](#tests)
-        * [Questions](#questions)
+        - [Installation](#installation)
+        - [Usage](#usage)
+        - [License](#license)
+        - [Contributing](#contributing)
+        - [Tests](#tests)
+        - [Questions](#questions)
         
         ## Description
-        sdg
+        Simple Node App to generate README files in standard format
 
         ## Installation
-        sfagsgs
+        Deploy App to chosen directory. initialize node in your terminal with 'npm init -y'.
         
         ## Usage
-        sadgsfgaasfg
+        Use to Create README.md file boilerplates.
         
         ## License
         mit
         
         ## Contributing
-        asfgsgfa
+        n/a
         
         ## Tests
-        asdgsfagdfg
+        run the app, fill in the prompts.
         
         ## Questions
-        ed
-        peeppee
+        n/a
+        Zed-CSP
         
