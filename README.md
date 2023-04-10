@@ -1,33 +1,35 @@
 
-        # README.md Generator
+        # README Generator
 
         ## Table of Contents
-        - [Installation](#installation)
-        - [Usage](#usage)
-        - [License](#license)
-        - [Contributing](#contributing)
-        - [Tests](#tests)
-        - [Questions](#questions)
-        
+        * [Installation](#installation)
+        * [Usage](#usage)
+        * [License](#license)
+        * [Contributing](#contributing)
+        * [Tests](#tests)
+        * [Questions](#questions)
+
         ## Description
-        Simple Node App to generate README files in standard format
+        Readme generator created in Node.js
 
         ## Installation
-        Deploy App to chosen directory. initialize node in your terminal with 'npm init -y'.
+        Download repo to chosen directory. initialize node in your terminal with "npm init -y". 
         
         ## Usage
-        Use to Create README.md file boilerplates.
+        Use the Prompts to create a boilerplate README.md file with the proper markdown quickly. Files are outputted to the "outputFiles" folder.
         
         ## License
         mit
         
         ## Contributing
-        n/a
+        contact via github with suggestions.
         
         ## Tests
-        run the app, fill in the prompts.
+        Run the app, Fill in the prompts.
         
         ## Questions
-        n/a
+        
+        N/A
         Zed-CSP
+        
         
