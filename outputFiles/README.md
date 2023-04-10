@@ -1,33 +1,35 @@
 
-        # test
+        # README Generator
 
         ## Table of Contents
-        - [Installation](#installation)
-        - [Usage](#usage)
-        - [License](#license)
-        - [Contributing](#contributing)
-        - [Tests](#tests)
-        - [Questions](#questions)
-        
+        * [Installation](#installation)
+        * [Usage](#usage)
+        * [License](#license)
+        * [Contributing](#contributing)
+        * [Tests](#tests)
+        * [Questions](#questions)
+
         ## Description
-        test
+        Readme generator created in Node.js
 
         ## Installation
-        test
+        Download repo to chosen directory. initialize node in your terminal with "npm init -y". 
         
         ## Usage
-        test
+        Use the Prompts to create a boilerplate README.md file with the proper markdown quickly. Files are outputted to the "outputFiles" folder.
         
         ## License
         mit
         
         ## Contributing
-        test
+        contact via github with suggestions.
         
         ## Tests
-        test
+        Run the app, Fill in the prompts.
         
         ## Questions
-        test
-        test
+        
+        N/A
+        Zed-CSP
+        
         
