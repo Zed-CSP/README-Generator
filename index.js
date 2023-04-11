@@ -1,8 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const MarkDown = require('./lib/readMeGen.js');
-
-
 const questions = [
     {
         type: 'input',
@@ -54,7 +52,6 @@ const questions = [
         message: 'Please provide your email address.',
     },
 ];
-
 function runQuery() {
     return inquirer.prompt(questions)
         .then((data) => {
@@ -64,6 +61,4 @@ function runQuery() {
             );
         });
 }
-
-
 runQuery();

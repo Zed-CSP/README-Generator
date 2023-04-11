@@ -17,6 +17,7 @@
         
         ## Usage
         Use the Prompts to create a boilerplate README.md file with the proper markdown quickly. Files are outputted to the "outputFiles" folder.
+        ![Preview of the application in action](./assets/images/Screenshot.png)
         
         ## License
         mit
