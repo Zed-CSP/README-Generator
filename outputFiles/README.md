@@ -1,33 +1,50 @@
 
-    # A Readme
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# README GENERATOR
     
-    ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+---
+
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
     
-    ## Description
-    this
+---
+
+## Description
+Readme generator create with node.js
     
-    ## Installation
-    this
+---
+
+## Installation
+clone the repo to chosen directory. init node with 'npm init -y'
     
-    ## Usage
-    this
+---
+
+## Usage
+Use the Prompts to create Boilerplate readme files. files are outputted to "outputs" folder
     
-    ## License
-    mit
+---
+
+## License
+mit
     
-    ## Contributing
-    this
+---
+
+## Contributing
+raise issues via github
     
-    ## Tests
-    this
+---
+
+## Tests
+n/a
     
-    ## Questions
-    Email: cperet
-    GitHub: zed-csp
-    
+---
+
+## Questions
+Email: 1234@gmail.com
+GitHub: zed-csp
+---

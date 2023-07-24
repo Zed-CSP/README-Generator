@@ -12,8 +12,7 @@
 
 ## Description
 ```md
-Readme generator created in Node.js
-```
+Readme generator created in Node.js```
 ## Installation
 ```md
 Download repo to chosen directory. initialize node in your terminal with "npm init -y". 
